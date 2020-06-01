@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316700455879",
+    "firebase_url": "https://fitit-db76f.firebaseio.com",
+    "project_id": "fitit-db76f",
+    "storage_bucket": "fitit-db76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316700455879:android:f463f7c5d7bfd3f2455fe2",
+        "android_client_info": {
+          "package_name": "com.example.fitit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316700455879-rpgtktkjd12pvvdrfrtraiff6m96b75p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitit",
+            "certificate_hash": "8cde22d3cceb5a41ecff54d15f6a83850e2449c8"
+          }
+        },
+        {
+          "client_id": "316700455879-2hfpp0bp61fsfpjcpd778dg39jqilpvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEEYIwzNtkmptXy2rY3qGvUlKOqWS3PKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316700455879-2hfpp0bp61fsfpjcpd778dg39jqilpvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
